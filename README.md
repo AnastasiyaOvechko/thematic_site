@@ -12,7 +12,7 @@
             <div class="title"><b>В Мексике скончалась 109-летняя Мария Салуд Рамирес Кабальеро  — она была прототипом бабушки из мультфильма «Тайна Коко»</b></div>
         </header>
         <main>
-        <p><img src="https://lentafeed.com/upload/g_5363825746935660069_y_2.jpg?1666043387" width="600" height="450" alt="Фотография"></p>
+        <p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.the-village-kz.com%2Fvillage%2Fcity%2Fnews-city%2F26235-coco-pixar&psig=AOvVaw3gIpUsFJxyoFHpgnaWzJDX&ust=1667568951471000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPik-82QkvsCFQAAAAAdAAAAABAD" width="600" height="450" alt="Фотография"></p>
         <p>В Мексике скончалась 109-летняя Мария Салуд Рамирес Кабальеро — она была прототипом бабушки из мультфильма «Тайна Коко», сообщает газета El Pais. Продюсеры Pixar познакомились с ней во время поездки в Мексику, когда им нужно было исследовать традицию Дня мёртвых. В дальнейшем студия отрицала, что мексиканка вдохновила их на создание персонажа, а семья Кабальеро безуспешно пыталась добиться признания от Pixar.</p>
         </main>
         <nav>
